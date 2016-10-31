@@ -21,6 +21,15 @@
     "before": true,
     "after": true,
     "beforeEach": true,
-    "afterEach": true
+    "afterEach": true,
+    "cp": true,
+    "exec": true,
+    "pwd": true,
+    "rm": true,
+    "echo": true,
+    "exit": true,
+    "cd": true,
+    "mkdir": true,
+    "test": true
   }
 }
